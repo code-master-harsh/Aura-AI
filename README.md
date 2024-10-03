@@ -97,5 +97,5 @@ The content of this JSON file will look like this (this is a template—replace 
 Once the setup is complete, run your project by executing the `main.py` file in the virtual environment:
 
 ```bash
-python main.py
+streamlit run main.py
 ```
