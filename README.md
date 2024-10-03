@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png" alt="Project Logo" />
+</p>
+
 # Gemini-Enhanced AI Chatbot for Mental Health and Emotional Support
 
 This is a Gemini-Enhanced AI chatbot for Mental Health and Emotional Support created using Python, Streamlit, and Firebase.
