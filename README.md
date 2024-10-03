@@ -57,7 +57,7 @@ Use `pip3` instead of `pip` for Mac.
 ### Step 4: Set up the `.env` file
 Create an `.env` file in the project root to store your API keys. The content of the `.env` file should look like this:
 
-```
+```bash
 API_KEY="your_google_api_key_here"
 GOOGLE_API_KEY="your_google_api_key_here"
 FIREBASE_CONFIG_KEY="your_firebase_config_key_here"
